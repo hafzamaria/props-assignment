@@ -34,14 +34,13 @@ const FaceCard = ({
       <div className="bimg">
         <img className="bodypic" src={bodyImg} alt="" />
       </div>
-      {/* <div className="likeBox"> */}
+    
       <div className="text">
         <img className="heartIcon" src={likeIcon} alt="" />
         <p className="iconText"> {text} </p>
       </div>
 
       <div className="shares">{comment}</div>
-      {/* </div> */}
       <div className="buttons">
         <div className="but">
           <div className="like">
@@ -63,7 +62,7 @@ const FaceCard = ({
           </div>
           <button type="submit">Share</button>
         </div>
-        
+
       </div>
     </div>
   </div>
