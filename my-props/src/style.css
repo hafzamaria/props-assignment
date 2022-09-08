@@ -1,0 +1,191 @@
+.first{
+    display: flex;
+      justify-content: center;
+      background-color:whitesmoke;
+      padding: 20px;
+      padding-bottom: 125px;
+      padding-bottom: 5px;
+      
+     
+  }
+  
+  .main{
+    display: flex;
+   justify-content: center;
+   
+    /* border: 1px solid black; */
+    width: 510px;
+    height: 720px;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: whitesmoke; */
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 15px;
+  
+  }
+  .header{
+    /* border:1px solid lightgrey;  */
+    border-radius: 15px 15px 0px 0px ;
+    display: flex;
+    height: 70px;
+    /* box-shadow: 0px 0px 10px lightgray; */
+    width: 510px;
+    margin-top: 15px;
+    background-color: white;
+  }
+  .proImg{
+  padding: 10px;
+    border-radius: 50%;
+    height: 60px;
+      width: 60px;
+      margin-left: 10px;
+      margin-top: -5px;
+  }
+  .body{
+    display: flex;
+      flex-direction: column;
+      /* margin-left: 55px; */
+      margin-top: -6px;
+  }
+  .h3{
+    margin-left: -59px;
+    color: rgb(128, 117, 117);
+    
+  }
+  .time{
+    /* margin-top: -15px; */
+    display: flex;
+    
+      font-size: 12px;
+      color: gray;
+      margin-top: -15px;
+      margin-left: -2px;
+    
+  }
+  .icon{
+    width: 20px;
+    height: 20px;
+    margin-top: -3px;
+      margin-left: 3px;
+  }
+  .icon2{
+    display: flex;
+    margin-left: 360px;
+    width: 27px;
+    height: 27px;
+    margin-top: -51px;
+    
+  }
+  .bodypic{
+      width: 510px;
+      height: 550px;
+  }
+  /* .likeBox{
+  border: 2px solid black;
+  width: 510;
+  height: 200px;
+  } */
+  
+  .heartIcon{
+    width: 45px;
+      height: 21px;
+      /* margin-left: -150px; */
+      margin-top: 10px;
+      margin-left: -215px;
+  }
+  .iconText{
+    margin-left: -164px;
+      margin-top: -25px;
+      font-size: 20px;
+      color: rgb(85, 78, 78);
+  }
+  .shares{
+    margin-top: -42px;
+    margin-right: -255px;
+    font-size: 20px;
+    color: rgb(85, 78, 78);
+  }
+  
+  .buttons{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid gray;
+    width: 460px;
+    margin-top: 10px;
+      padding: 14px
+  }
+  button{
+    border:0px whitesmoke ;
+  }
+  .but{
+   
+    display: flex;
+    height: 22px;
+   
+  }
+  /*  */
+  .like{
+    color: darkgray;
+    font-size: 16px;
+   /* width: 60px; */
+   /* height: 26px; */
+  
+  }
+  
+  
+  .lUrl{
+    width: 25px;
+      height: 25px;
+      /* margin-left: 62px; */
+      
+  }
+  
+  
+  .but1{
+    /* margin-bottom: 20px; */
+    display: flex;
+    height: 22px;
+    /* padding: 10px; */
+    /* margin-top: -55px; */
+    /* margin-left: -29px; */
+  }
+  
+  .like1{
+    color: darkgray;
+    font-size: 16px;
+    /* width: 60px; */
+   /* height: 26px; */
+  
+  }
+  
+  .CUrl{
+    width: 25px;
+      height: 25px;
+      margin-right: 5px;
+      
+  }
+  .but2{
+    margin-bottom: 20px;
+    display: flex;
+    /* padding: 10px; */
+    /* margin-top: -44px; */
+    /* margin-left: 283px; */
+  } 
+   
+  .like2{
+    color: darkgray;
+    font-size: 16px;
+    /* width: 60px; */
+   /* height: 26px; */
+  }
+  /* button{
+    color: grey;
+    border: white;
+    background-color:white;
+  } */
+   .SUrl{
+    width: 20px;
+      height: 20px;
+      margin-right: 5px;
+      
+  } 
